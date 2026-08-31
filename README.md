@@ -15,6 +15,6 @@ Exercício 11: Cálculo do comprimento de uma circunferência pelo raio.
 Exercício 12: Cálculo da idade atual e projeção para daqui a 17 anos.
 Exercício 13: Duração em dias de um estoque de alimento (consumo de 50g/dia).
 Exercício 14: Determinação do 3º ângulo interno de um triângulo.
-Exercício 15: Cálculo da hipotenusa em um triângulo retângulo (Teorema de Pitágoras).
+Exercício 15: Cálculo da hipotenusa em um triângulo retângulo.
 Exercício 16: Cálculo do salário líquido com desconto e acréscimo por dependente.
 Exercício 17: Cálculo do consumo de combustível com base em tempo, velocidade e autonomia.
