@@ -1,5 +1,5 @@
-Autor: David Alves da Silva
-Professor de Sistemas Operacionais (quem propôs os exercícios): Prof Dr. Leandro Colevati dos Santos
+Autor: David Alves da Silva.
+Professor de Sistemas Operacionais (quem propôs os exercícios): Prof Dr. Leandro Colevati dos Santos.
 
 Exercício 1: Cálculo da área de um quadrado a partir do seu lado.
 Exercício 2: Aplicação de reajuste de 15% sobre um salário.
